@@ -3,7 +3,11 @@
 Me chama Pedro Vargas, tenho 20 anos e sou natural do Paraná. Atualmente, estou cursando Engenharia Elétrica/Eletrônica. Sou apaixonado por tecnólogo, programação e Inteligência Artificial.
 
 ---
+
 ## 🤖 Linguagens e Tecnologias
+
+---
+
 
 <img 
   align= "left"
@@ -62,7 +66,6 @@ Me chama Pedro Vargas, tenho 20 anos e sou natural do Paraná. Atualmente, estou
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" 
 />
 
---- 
 
           
           
