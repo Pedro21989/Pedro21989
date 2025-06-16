@@ -53,6 +53,18 @@ Me chama Pedro Vargas, tenho 20 anos e sou natural do Paraná. Atualmente, estou
   style= "padding right: 10px;"
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" 
 />
+<img 
+  align= "left"
+  alt= "typescript"
+  title= "typescript"
+  width= "30px"
+  style= "padding right: 10px;"
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" 
+/>
+
+--- 
+
+          
           
           
           
