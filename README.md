@@ -6,8 +6,6 @@ Me chama Pedro Vargas, tenho 20 anos e sou natural do Paraná. Atualmente, estou
 
 ## 🤖 Linguagens e Tecnologias
 
----
-
 
 <img 
   align= "left"
